@@ -10,37 +10,11 @@ let about = {
     lastName: 'Favarelli',
     role: 'UX/UI Designer & Front-end Developer',
     bio: 'Alguns códigos por ai...',
-
-    skills: [
-        'Angular',
-        'React',
-        'HTML',
-        'CSS',
-        'JavaScript'
-        'Wireframe',
-        'Prototipagem',
-        'Design Systems',
-    ],
-
-    tools: [
-        'Figma',
-        'Figjam',
-        'Miro',
-        'Canva',
-        'Adobe XD',
-        'Git',
-        'VS Code :P',
-    ],
-
     location: 'Brazil',
 
 ```
 
 ### Languages
-<div align="left">
-  <a href="https://github.com/Itstf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itstf&layout=compact&langs_count=7&theme=swift"/>
-</div>
 <div>
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
