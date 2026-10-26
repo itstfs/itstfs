@@ -4,15 +4,6 @@
  <img src=https://readme-typing-svg.herokuapp.com?color=3b9ef1&lines=%E2%80%A2+About+Me+%E2%80%A2
 </p>
 
-```javascript
-let about = {
-    firstName: 'Thaiza',
-    lastName: 'Favarelli',
-    bio: 'Alguns códigos por ai...',
-    location: 'Brazil',
-
-```
-
 ### Languages
 <div>
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,10 +21,6 @@ let about = {
 </div>
 
 ### GitHub & Activity
-<div>
-  <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-itstfs&style=flat-square&color=blue" alt=""/>
-</div>
 <div>
   <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=your-github-itstf&style=flat-square&color=blue" alt=""/>
