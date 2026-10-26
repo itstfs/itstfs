@@ -8,7 +8,6 @@
 let about = {
     firstName: 'Thaiza',
     lastName: 'Favarelli',
-    role: 'UX/UI Designer & Front-end Developer',
     bio: 'Alguns códigos por ai...',
     location: 'Brazil',
 
