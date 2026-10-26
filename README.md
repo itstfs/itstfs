@@ -22,7 +22,7 @@
 
 ### GitHub & Activity
 <div>
-  <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
+  <a href="https://github.com/itstfs" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=your-github-itstf&style=flat-square&color=blue" alt=""/>
 </div>
 
