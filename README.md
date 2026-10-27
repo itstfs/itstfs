@@ -20,6 +20,11 @@
  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
+<div align="left">
+  <a href="https://github.com/itstfs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itstf&layout=compact&langs_count=7&theme=swift"/>
+</div>
+
 ### GitHub & Activity
 <div>
   <a href="https://github.com/itstfs" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
