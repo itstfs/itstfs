@@ -34,13 +34,6 @@
   <a href="https://www.youtube.com/@itstfs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-### Projects
-<div>
-  <a href="https://undacashbank.web.app/" target="_blank"> <img src="http://img.shields.io/static/v1?label=UNDA%20BANK&message=Frontend&color=GREEN&style=for-the-badge"/> </a> <br>
- <a href="https://aqciondigital.web.app/" target="_blank"> <img src="http://img.shields.io/static/v1?label=Aqcion%20Digital &message=UI%20Design%20and%20Frontend&color=GREEN&style=for-the-badge"/> </a> <br>
-  <a href="https://www.figma.com/design/PDD9bkznXkGdr2I7t1aDsz/Manual-Digital---Web---Mobile?node-id=0-1&p=f&t=iD4b1PE6s3lKJHXK-0" target="_blank"> <img src="http://img.shields.io/static/v1?label=Manual%20Digital &message=UX/UI%20Design&color=GREEN&style=for-the-badge"/> </a> <br>
-</div>
-
 #
 
 ### Tschuss, Danke!
