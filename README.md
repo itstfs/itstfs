@@ -2,6 +2,14 @@
  <img src=https://readme-typing-svg.herokuapp.com?color=3b9ef1&lines=%E2%80%A2+About+Me+%E2%80%A2
 </p>
 
+<img src="https://i.imgur.com/ZJnxl3B.jpeg" alt="itstfs in notebook" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Hello, I'm Thai! <strong>Frontend and UX&UI Designer</strong>.<br>
+</p>
+
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itstfs)
+
 ### Languages
 <div align="left">
   <a href="https://github.com/itstfs">
